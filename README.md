@@ -7,7 +7,7 @@ go to main directory and run
 `npm install`
 
 then
-`npm run cypress:o`
+`npm run cypress`
 
 
 ## Local tests which were made:
