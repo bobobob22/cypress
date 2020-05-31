@@ -1,6 +1,6 @@
 # E2E Testing Form App using Cypress.js
 
-Form app is created for 'projekt inżynierski' project hosted on https://suspicious-yonath-829748.netlify.app/
+Form app is created for 'projekt inżynierski' project hosted on https://romantic-mccarthy-8e50b8.netlify.app/
 
 ## How to run?
 go to main directory and run
